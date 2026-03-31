@@ -1,0 +1,15 @@
+#  The contact options.
+
+- type: github
+  icon: "fab fa-github"
+
+- type: twitter
+  icon: "fab fa-twitter"
+
+- type: linkedin
+  icon: 'fab fa-linkedin'
+  url:  'https://www.linkedin.com/in/peter-kiilu'
+
+- type: rss
+  icon: "fas fa-rss"
+  noblank: true
