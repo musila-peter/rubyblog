@@ -5,7 +5,7 @@ order: 4
 date: 2023-01-01
 ---
 
-> **Skills**:Python, JavaScript/TypeScript, React, React Native, Express.js, MongoDB, Next.js, Node.js, FastAPI, Docker, GitHub Actions, PostgreSQL, Redis, Supabase, PWA
+> **Skills**:Python, JavaScript, React Native, MongoDB, Docker
 {: .prompt-tip }
 
 ### Musila Peter 
