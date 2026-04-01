@@ -95,5 +95,19 @@ layout: compress
     {% endif %}
 
     {% include_cached search-loader.html %}
+
+    <!-- Force unregister any existing service worker (PWA disabled) -->
+    <script>
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker.getRegistrations().then(function(registrations) {
+          for (let registration of registrations) {
+            registration.unregister();
+            console.log('Service worker unregistered');
+          }
+        }).catch(function(err) {
+          console.log('Service worker unregistration failed: ', err);
+        });
+      }
+    </script>
   </body>
 </html>
