@@ -28,4 +28,4 @@ To create a dependable stock tracking and sales analytics platform that continue
 
 ## Links
 - **Live Platform**: [me-inventory.vercel.app](https://me-inventory.vercel.app/)
-- **Source Code**: [GitHub Repository](https://github.com/peter-kiilu)
+- **Source Code**: [GitHub Repository](https://github.com/musilapeter)

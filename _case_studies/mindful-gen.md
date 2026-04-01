@@ -20,4 +20,4 @@ To create a seamless, accessible environment where users feel comfortable tracki
 
 ## Links
 - **Live Platform**: [mindful-gen.vercel.app](https://mindful-gen.vercel.app/)
-- **Source Code**: [GitHub Repository](https://github.com/peter-kiilu)
+- **Source Code**: [GitHub Repository](https://github.com/musilapeter)

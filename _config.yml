@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: "https://musila.dev"
 
 github:
-  username: musila-peter # change to your github username
+  username: musilapeter # change to your github username
 
 twitter:
   username: _musilapeter # change to your twitter username
@@ -42,10 +42,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/_musilapeter # change to your twitter homepage
-    - https://github.com/musila-peter # change to your github homepage
+    - https://github.com/musilapeter # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/musila-peter
+    - https://www.linkedin.com/in/musilapeter
 
 google_site_verification: # fill in to your verification string
 
